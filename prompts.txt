@@ -18,3 +18,5 @@ Do the same as you did with Terms and Conditions page, but for privacy policy.
 Match the style of terms.html.
 3. In @templates/landing.html, update the "Privacy Policy" footer link from "#" to "/privacy".
 4. Make sure the appearance looks like the website's theme.
+
+Modify only the hero section in @templates/landing.html and @static/css/landing.css to match this image exactly. Do not touch any other part of the page.
